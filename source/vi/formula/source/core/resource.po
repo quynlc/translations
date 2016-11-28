@@ -1953,6 +1953,42 @@ msgstr "SUMIF"
 msgctxt ""
 "core_resource.src\n"
 "RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_IF\n"
+"string.text"
+msgid "AVERAGEIF"
+msgstr "AVERAGEIF"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_SUM_IFS\n"
+"string.text"
+msgid "SUMIFS"
+msgstr "SUMIFS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_AVERAGE_IFS\n"
+"string.text"
+msgid "AVERAGEIFS"
+msgstr "AVERAGEIFS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
+"SC_OPCODE_COUNT_IFS\n"
+"string.text"
+msgid "COUNTIFS"
+msgstr "COUNTIFS"
+
+#: core_resource.src
+msgctxt ""
+"core_resource.src\n"
+"RID_STRLIST_FUNCTION_NAMES\n"
 "SC_OPCODE_LOOKUP\n"
 "string.text"
 msgid "LOOKUP"
